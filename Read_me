@@ -1,0 +1,18 @@
+This game is an infinite Pong Game with a theme of The Pink Panther 
+I call this : The Pink Pong
+
+I followed a tutorial to make this game, this is the link to that tutorial  : 
+https://www.youtube.com/playlist?list=PL8ui5HK3oSiEk9HaKoVPxSZA03rmr9Z0k
+
+I followed the videos from this playlist to learn the concepts of pygame : 
+https://www.youtube.com/playlist?list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy
+
+Took some references from stackoverflow and other you tube videos to add the background music 
+and other functionality.
+
+Used figma to create paddle.png and ball.png 
+
+This file uses pygame and to run the game, enter the directory where you've saved the python file and 
+kindly run 'python pink_pong.py' in cmd.
+
+I hope you enjoy the game.
